@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679352341 source:c:\users\eduar\desktop\faculdade\ed\faculdade_ed_2023\faculdade_ed_2023\lista02\ex01_pesquisanome\main.cpp
+	<iostream>
+	<cstdlib>
+	<locale>
+

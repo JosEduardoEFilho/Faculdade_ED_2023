@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1679619012 source:c:\users\eduar\desktop\faculdade\ed\faculdade_ed_2023\faculdade_ed_2023\lista02\ex06_temperaturasano\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<locale>
+	<iomanip>
+
