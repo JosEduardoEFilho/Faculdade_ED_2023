@@ -1,0 +1,6 @@
+O Exercicio de cadastro de pessoas possui duas versões, a primeira é para se ter um validador de CPF e pesquisa de pessoa cadastradas, mas não consegui resolver o problema do validador ainda, então criei o Exercicio de cadastro de pessoas V2 para poder entregar para a nota!
+
+
+Att.
+José Eduardo Elesbão Filho
+2° Sem. Cienco

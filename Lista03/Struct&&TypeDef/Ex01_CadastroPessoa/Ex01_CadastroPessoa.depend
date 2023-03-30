@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680041664 source:c:\users\eduar\desktop\faculdade\ed\faculdade_ed_2023\faculdade_ed_2023\lista03\struct&&typedef\ex01_cadastropessoa\main.cpp
+	<iostream>
+	<cstdlib>
+	<locale>
+
