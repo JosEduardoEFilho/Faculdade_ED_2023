@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680308412 source:c:\users\eduar\desktop\faculdade\ed\faculdade_ed_2023\faculdade_ed_2023\desafios\desafio1049\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
