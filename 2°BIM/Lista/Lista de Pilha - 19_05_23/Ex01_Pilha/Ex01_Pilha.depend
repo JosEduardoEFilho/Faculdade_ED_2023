@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684541431 source:c:\users\eduar\desktop\faculdade\ed\faculdade_ed_2023\faculdade_ed_2023\2°bim\lista\lista de pilha - 19_05_23\ex01_pilha\main.cpp
+	<iostream>
+	<stack>
+	<cstdlib>
+	<locale>
+

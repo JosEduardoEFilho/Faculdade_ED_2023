@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685150835 source:c:\users\eduar\desktop\faculdade\ed\faculdade_ed_2023\faculdade_ed_2023\2°bim\aula 250523\exercicios\ex02_fila\main.cpp
+	<iostream>
+	<locale>
+	<cstdlib>
+	<string>
+	<queue>
+
